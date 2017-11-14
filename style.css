@@ -295,6 +295,10 @@ h1 {
   margin-top: -110px;
 }
 
+.wrapper-6 {
+  height: 20px;
+}
+
 .container {
   max-width: 1000px;
   margin: 10px auto;
