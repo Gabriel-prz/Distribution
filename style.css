@@ -254,7 +254,8 @@ h1 {
 }
 
 .team-member img {
-  
+    margin: 0 auto;
+    border: 7px solid #fff;
 }
 
 .team-member h4 {
