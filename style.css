@@ -59,7 +59,7 @@ img {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #ffffff;
     background-attachment: scroll;
     background-image: url(image/fond.png);
     background-position: center center;
@@ -71,53 +71,51 @@ header {
 }
 
 .gradient {
-  background: linear-gradient(to right, rgba(10,10,10,0.5), rgba(10,10,10,0.5));
+  background: linear-gradient(to left, rgba(250,250,250,0.37), rgba(250,250,250,0.37));
+}
 
+h1 strong {
+  color: #211b1b;
 }
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 200px;
+    padding-bottom: 70px;
+    color: #211b1b;
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 200px;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: 30px;
     font-size: 30px;
-    font-style: italic;
     line-height: 22px;
 }
 
 header .intro-text .intro-heading {
-    margin-bottom: 20px;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: 20px;    
     font-size: 25px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 40px;
 }
 
 @media(min-width:800px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 40px;
-        font-style: italic;
-        line-height: 40px;
+        font-size: 30px;
+        line-height: 10px;
     }
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        text-transform:;
+        
         font-size: 30px;
         font-weight: 700;
-        line-height: 75px;
+        line-height: 10px;
     }
 }
 
@@ -129,14 +127,14 @@ header .intro-text .intro-heading {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
-    color: #fff;
+    color: #ffffff;
     background-color: #EB5F1E   ;
 }
 
 .btn-primary:hover {
   background-color: #313E47 ;
   border-color: #EB5F1E ;
-  color: #fff;
+  color: #ffffff;
 
 }
 
@@ -255,7 +253,7 @@ h1 {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #fff;
+    border: 7px solid #ffffff;
 }
 
 .team-member h4 {
@@ -277,7 +275,7 @@ h1 {
 }
 
 .glyphicon-envelope  {
-  color: #fff;
+  color: #ffffff;
 }
 
 
