@@ -60,7 +60,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(Image/Fond.png);
+    background-image: url(image/fond.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -321,22 +321,22 @@ h1 {
 /* IMAGE DE FOND */
 
 .v-b1 {
-  background-image:url(Image/B2.png);
+  background-image:url(image/b2.png);
 }
 .v-b2 {
-  background-image:url(Image/B3.png);
+  background-image:url(image/b3.png);
 }
 .m-b3 {
-   background-image:url(Image/B2.png);
+   background-image:url(image/b2.png);
 }
 .m-b4 {
-  background-image:url(Image/B2.png);
+  background-image:url(image/b2.png);
 }
 .v-b5 {
-   background-image:url(Image/B5.png);
+   background-image:url(image/b5.png);
 }
 .v-b6 {
-  background-image:url(Image/B6.png);
+  background-image:url(image/b6.png);
 }
 
 .bg-light-gray {
