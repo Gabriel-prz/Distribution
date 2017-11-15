@@ -507,4 +507,9 @@ position:absolute;
     margin-bottom: 0;
 }
 
+/* 404 not found */
 
+#error {
+  margin: 0 auto;
+  display: block;
+}
