@@ -178,6 +178,7 @@ h1 {
 .box {
   width: 200px;
   height: 200px;
+  border-radius: 7px;
   overflow: hidden;
   float: left;
   margin: 5px 10px 5px 5px;
@@ -212,6 +213,31 @@ h1 {
 }
 .box:hover h2 {
   margin-top: 70px;
+}
+
+/* IMAGE DE FOND */
+
+.v-b1 {
+  background-image:url(image/b2.png);
+}
+.v-b2 {
+  background-image:url(image/b3.png);
+}
+.v-m3 {
+   background-image:url(image/b4.png);
+}
+.v-m4 {
+  background-image:url(image/b5.png);
+}
+.v-b5 {
+   background-image:url(image/b6.png);
+}
+.v-b6 {
+  background-image:url(image/b7.png);
+}
+
+.bg-light-gray {
+    background-color: white;
 }
 
 /* modification photos section 2 */ 
@@ -318,33 +344,6 @@ h1 {
 .contenu {
   height: 100%;
   margin-bottom: 30px;
-}
-
-
-
-/* IMAGE DE FOND */
-
-.v-b1 {
-  background-image:url(image/b2.png);
-}
-.v-b2 {
-  background-image:url(image/b3.png);
-}
-.m-b3 {
-   background-image:url(image/b2.png);
-}
-.m-b4 {
-  background-image:url(image/b2.png);
-}
-.v-b5 {
-   background-image:url(image/b5.png);
-}
-.v-b6 {
-  background-image:url(image/b6.png);
-}
-
-.bg-light-gray {
-    background-color: white;
 }
 
 
