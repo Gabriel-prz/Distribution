@@ -88,6 +88,9 @@ header .intro-text .intro-lead-in {
     margin-bottom: 30px;
     font-size: 30px;
     line-height: 22px;
+
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
 }
 
 header .intro-text .intro-heading {
@@ -95,6 +98,8 @@ header .intro-text .intro-heading {
     font-size: 25px;
     font-weight: 700;
     line-height: 40px;
+
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 @media(min-width:800px) {
@@ -297,7 +302,6 @@ h1 {
   background-color: #373737;
   width: 100px;
   border-color: #373737
-  
 }
 
 .glyphicon-envelope  {
