@@ -480,9 +480,39 @@ position:absolute;
     margin-left: 0;
     border: 7px solid #f1f1f1;
     border-radius: 100%;
-    text-align: center;
-    color: #ffffff;
+    text-align:;
+    color: ;
     background-color: #EB5F1E;
+}
+
+.fa-university {
+text-align:right;
+  width:50%;
+}
+
+.fa-eur {
+  text-align:right;
+  width:40%;
+}
+
+.fa-map-signs{
+  text-align:right;
+  width:47%;
+}
+
+.fa-list {
+  text-align:right;
+  width:47%;
+}
+
+.fa-check-square-o{
+text-align:right;
+  width:47%;
+}
+
+.fa-recycle {
+  text-align:right;
+  width:47%;
 }
 
 .timeline>li .timeline-image h4 {
@@ -490,8 +520,6 @@ position:absolute;
     font-size: 15px;
     line-height: 14px;
 }
-
-
 
 .timeline .timeline-heading h4 {
     margin-top: 0;
